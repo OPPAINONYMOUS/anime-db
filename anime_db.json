@@ -1,4 +1,6 @@
 {
+    "default_thumbnail": "https://raw.githubusercontent.com/OPPAINONYMOUS/anime-db/refs/heads/main/thumb.jpg",
+    
     "#Compass 2.0 Sentou Setsuri Kaiseki System": {
     "channel_id": -1003579105894,
     "seasons": {
