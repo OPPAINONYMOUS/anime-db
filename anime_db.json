@@ -501,6 +501,29 @@
       }
     }
   },
+    "Acro Trip": {
+    "channel_id": -1003579105894,
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx157965-YhogaZGde6tv.jpg",
+    "description": "Mengisahkan Chizuko, seorang gadis yang mendatangi kakeknya di sebuah tempat. Di sana, ia bertemu dengan Berry Blossom, seorang gadis penyihir yang memiliki tugas untuk melindungi kota dari tindak kejahatan. Sejak pertemuan pertamanya, Chizuko langsung tertarik dengan Berry Blossom. Sayangnya, ketertarikannya tersebut mulai memudar setelah Chroma, sang pemimpin organisasi jahat Fossa Magna yang terlalu lemah ini membuat pertarungannya dengan Berry menjadi tidak begitu seru. Untuk membuat pertarungan menjadi lebih menarik lagi, Chizuko terpaksa membantu Chroma agar bisa mengalahkan idolanya sendiri.",
+    "rating": "6.77",
+    "genre": "Comedy, Fantasy, Mahou Shoujo, Parody, Shoujo",
+    "seasons": {
+      "Season 1": {
+        "1": 615,
+        "2": 616,
+        "3": 617,
+        "4": 618,
+        "5": 619,
+        "6": 620,
+        "7": 621,
+        "8": 622,
+        "9": 623,
+        "10": 624,
+        "11": 625,
+        "12": 626
+      }
+    }
+  },
     "One Piece": {
     "channel_id": -1003579105894,
     "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21-ELSYx3yMPcKM.jpg",
