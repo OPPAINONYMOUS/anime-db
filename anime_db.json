@@ -45,6 +45,43 @@
       }
     }
   },
+  "Aharen-san wa Hakarenai": {
+    "channel_id": -1003579105894,
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx137281-i4UHcGkUi7j6.jpg",
+    "description": "Kisah berpusat terhadap Raidou dan Reina, dua orang pelajar yang memiliki kehidupan berbeda dengan pelajar lainnya. Reina merupakan gadis muda yang sangat-sangat cantik dan imut. Memiliki tubuh kecil dan suara yang imut membuat Reina begitu disenangi oleh temannya. Sementara itu, Raidou merupakan Siswa laki-laki yang memiliki badan besar dan tegap. Tatapannya dapat mengancam mereka yang melihatnya. Walau memiliki kepribadian yang bertolak belakang, Reina dan Raidou menjalin hubungan pertemanan yang begitu unik.",
+    "rating": "7.53",
+    "genre": "Comedy, School, Shounen",
+    "seasons": {
+      "Season 1": {
+        "1": 791,
+        "2": 792,
+        "3": 793,
+        "4": 794,
+        "5": 795,
+        "6": 796,
+        "7": 797,
+        "8": 798,
+        "9": 799,
+        "10": 800,
+        "11": 801,
+        "12": 802
+      },
+      "Season 2": {
+        "1": 803,
+        "2": 804,
+        "3": 805,
+        "4": 806,
+        "5": 807,
+        "6": 808,
+        "7": 809,
+        "8": 810,
+        "9": 811,
+        "10": 812,
+        "11": 813,
+        "12": 814
+      }
+    }
+  },
   "100-man no Inochi no Ue ni Ore wa Tatteiru": {
     "channel_id": -1003579105894,
     "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx116242-JY81Khmbqysn.jpg",
