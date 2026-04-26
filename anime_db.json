@@ -22,6 +22,32 @@
       }
     }
   },
+    "Acchi Kocchi": {
+    "channel_id": -1003579105894,
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx12291-NKo7qYW674Wo.jpg",
+    "description": "Seri ini bercerita mengenai sekelompok anak SMA terdiri dari 5 orang yang hidup biasa di kehidupan sehari-hari. Si imut namun pendiam, Tsumiki Miniwa, Hime Haruno, peneliti gila Mayoi Katase, Io Otonashi, dan Sakaki Inui. Setiap halaman dan episode menunjukan kehidupan dan aktifitas masing-masing karakter, terkadang membuat hal yang mengagumkan. Cerita berpusat pada Tsumiki dan Io, karakter utama seri ini. Tsumiki yang serius dan Io yang baik hati tidak pernah ingin terpisah, namun mereka belum menjadi pasangan. Yah, lebih dari teman, namun bukan pacar. Mereka terlibat percintaan yang canggung.",
+    "rating": "7.62",
+    "genre": "Comedy, Romance, School, Seinen, Slice of Life",
+    "seasons": {
+      "Season 1": {
+        "1": 892,
+        "2": 893,
+        "3": 894,
+        "4": 895,
+        "5": 896,
+        "6": 897,
+        "7": 898,
+        "8": 899,
+        "9": 900,
+        "10": 901,
+        "11": 902,
+        "12": 903
+      },
+      "OVA": {
+        "1": 904
+      }
+    }
+  },
   "Aho Girl": {
     "channel_id": -1003579105894,
     "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b98251-6miVBNYEXzaF.jpg",
