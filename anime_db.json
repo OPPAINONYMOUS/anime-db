@@ -22,6 +22,41 @@
       }
     }
   },
+  "Akame ga Kill!": {
+    "channel_id": -1003579105894,
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20613-HXHpec4bemk5.jpg",
+    "description": "Akame ga Kill – Bercerita tentang seorang pemuda bernama Tatsumi yang datang dari desa ke kota dengan cita-cita suatu hari nanti ia ingin mencari uang dengan menjadi seorang prajurit kerajaan dan memakmurkan desanya yang sekarang dilanda kemiskinan dan kelaparan. Ia datang ditemani kedua temannya untuk mengikuti ujian masuk menjadi prajurit kerajaan, namun sesampainya disana ia malah tertipu oleh seseorang yang mengaku akan menjadikannya seorang prajurit. Beberapa saat ia di ibu kota, Tatsume menyadari adanya tipu daya dan kebusukan yang belum banyak diketahui di ibu kota tersebut. Sayangnya setelah ia tahu bahwa temannya terbunuh, tatsumi diajak bergabung oleh sekelompok organisasi misterius bernama Night Raid, Night Raid menyebut mereka sendiri adalah anggota revolusioner yang memiliki tujuan untuk memperbaiki kerajaan yang telah busuk menjadi baru.",
+    "rating": "7.83",
+    "genre": "Action, Adventure, Fantasy",
+    "seasons": {
+      "Season 1": {
+        "1": 968,
+        "2": 969,
+        "3": 970,
+        "4": 971,
+        "5": 972,
+        "6": 973,
+        "7": 974,
+        "8": 975,
+        "9": 976,
+        "10": 977,
+        "11": 978,
+        "12": 979,
+        "13": 980,
+        "14": 981,
+        "15": 982,
+        "16": 983,
+        "17": 984,
+        "18": 985,
+        "19": 986,
+        "20": 987,
+        "21": 988,
+        "22": 989,
+        "23": 990,
+        "24": 991
+      }
+    }
+  },
   "Air": {
     "channel_id": -1003579105894,
     "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx101-x3YmfrzYZ9kM.jpg",
