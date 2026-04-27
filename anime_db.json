@@ -22,6 +22,29 @@
       }
     }
   },
+  "Air": {
+    "channel_id": -1003579105894,
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx101-x3YmfrzYZ9kM.jpg",
+    "description": "Anime ini mengisahkan seorang pemuda yang bernama Yukito sedang berkelana mencari wanita bersayap yang sering dibicarakan oleh ibunya. Dalam perjalanannya, ia singgah di sebuah kota dimana orang-orang jarang sekali kelihatan, disana Yukito juga bertemu seorang perempuan yang bernama Misuzu. Kehidupan Yukito seakan akan berubah di dalam kota itu. Kisah ini berawal dari Yukito. Suatu hari Yukito singgah disebuah desa yang sangat sepi (Seperti desa yang terisolir), disisi lain desa itu terlihat pantai yang begitu indah & sejuk. Ketika ingin melanjutkan perantauannya, Yukito merasa lapar dan saat itu Yukito tidak mempunyai uang sama sekali, agar mendapatkan uang biasanya Yukito menunjukan atraksi “boneka bergerak” di depan orang-orang, setelah atraksinya selesai biasanya orang-orang akan membayar seiklashnya, namun di desa ini orang-orang jarang terlihat, bahkan seperti tidak ada sama sekali.",
+    "rating": "7.46",
+    "genre": "Drama, Romance, Slice of Life, Supernatural",
+    "seasons": {
+      "Season 1": {
+        "1": 957,
+        "2": 958,
+        "3": 959,
+        "4": 960,
+        "5": 961,
+        "6": 962,
+        "7": 963,
+        "8": 964,
+        "9": 965,
+        "10": 966,
+        "11": 967,
+        "12": 968
+      }
+    }
+  },
   "A-Channel": {
     "channel_id": -1003579105894,
     "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx9776-1JMnQWJhpKVr.png",
