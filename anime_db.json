@@ -22,6 +22,32 @@
       }
     }
   },
+  "91Days": {
+    "channel_id": -1003579105894,
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21711-EQN4sCIXRhKf.png",
+    "description": "Berlatar di Amerika Serikat, tepatnya sekitar 1920, saat itu seorang pria bernama Nero yang diharapkan menjadi bos dari generasi mafia suatu saat nanti. Sebagai calon bos dari Keluarga Vampiro, Ia juga harus mengatasi berbagai rintangan ketika ingin menjadi bos mafia, berbagai macam permasalahan sindikat gelap dan rintangan harus ia lalui, termasuk salah satunya menghentikan aksi balas dendam oleh Avolio. Avolio berencana membalaskan dendamnya tersebut karena keluarganya telah dibunuh oleh keluarga Vampiro, Untuk mencapai tujuannya, Avolio bahkan rela membunuh teman dekatnya sekaligus. Lantas bagaimana kelanjutan kisahnya? Apa yang akan terjadi saat mereka berdua bertemu?.",
+    "rating": "7.89",
+    "genre": "Action, Drama, Historical",
+    "seasons": {
+      "Season 1": {
+        "1": 930,
+        "2": 931,
+        "3": 932,
+        "4": 933,
+        "5": 934,
+        "6": 935,
+        "7": 936,
+        "8": 937,
+        "9": 938,
+        "10": 939,
+        "11": 940,
+        "12": 941
+      },
+      "OVA": {
+        "1": 942
+      }
+    }
+  },
   "Akagami no Shirayuki-hime": {
     "channel_id": -1003579105894,
     "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21058-GRqasG1xk3bD.jpg",
