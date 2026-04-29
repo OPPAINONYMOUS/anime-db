@@ -23,6 +23,34 @@
       }
     }
   },
+  "Angel Beats!": {
+    "channel_id": -1003579105894,
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx6547-SYexAn5aFyss.png",
+    "description": "Angel Beats bercerita tentang Otonasi Yuzuru, seorang pemuda yang terbangun di dunia afterlife dalam keadaan lupa ingatan. Disana dia bertemu dengan Nakamura Yuri (Yurippe) yang sedang memegang senapan dan bersiap untuk menembak seorang gadis berambut silver yang bernama Tachibana Kanade. Yurippe pun langsung menghasut Yuzuru agar dia mau bergabung dengan ‘Shinda Sekai Sensen’ untuk melawan gadis tersebut, yang dianggapnya sebagai Tenshi (Malaikat). Tak percaya dengan perkataan Yurippe, Yuzuru pun mencoba untuk berbicara dengan gadis cantik tersebut. Walhasil, hal yang tidak diinginkan pun terjadi. Gadis tersebut malah menusuk Yuzuru dengan Hand Sonic miliknya. Setelah insiden tersebut, Yuzuru pun memutuskan untuk bergabung dengan Shinda Sekai Sensen sambil mencari tahu tentang dunia yang serba misteri ini. Dari sinilah kisah hidup baru Yuzuru pun dimulai.",
+    "rating": "8.32",
+    "genre": "Action, Comedy, Drama, School, Supernatural",
+    "status": "Completed",
+    "seasons": {
+      "Season 1": {
+        "1": 1006,
+        "2": 1007,
+        "3": 1008,
+        "4": 1009,
+        "5": 1010,
+        "6": 1011,
+        "7": 1012,
+        "8": 1013,
+        "9": 1014,
+        "10": 1015,
+        "11": 1016,
+        "12": 1017
+      },
+      "OVA": {
+        "1": 1018,
+        "2": 1019
+      }
+    }
+  },
   "Akane-iro ni Somaru Saka": {
     "channel_id": -1003579105894,
     "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx4744-ojHpFzrbKc3j.jpg",
