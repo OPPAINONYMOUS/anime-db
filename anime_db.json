@@ -23,6 +23,46 @@
       }
     }
   },
+  "AKB0048": {
+    "channel_id": -1003579105894,
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx12149-OsW0XJq6wtCM.jpg",
+    "description": "Pada awal abad ke-21, terjadi sebuah tragedi yang membuat perang terjadi. Perang ini terjadi akibat teknologi perjalanan antar planet. Setelah bumi mengalami kerusakan yang parah, para manusia mengungsi keluar angkasa. Dengan itu pula, manusia memulai sejarah baru yang ditandai dengan kalender BINTANG tahun 00. Pemerintah melarang semua kegiatan “mengganggu perasaan” yaitu seni, hiburan maupun musik. Satu per satu hiburan dan idol pun menghilang dan mengalami kepunahan. Tetapi ada satu grup yang masih bertahan hingga saat ini, nama grup itu ialah AKB0048. AKB0048 dibentuk pada tahun 0048, yang berasal dari grup legendaris sebelumnya yaitu AKB48. Namun karena pemerintah melarang semua kegiatan, dan pengaruh dari AKB0048 sangatlah besar sehingga grup ini dilabeli sebagai grup teroris.",
+    "rating": "7.49",
+    "genre": "Music, Sci-Fi",
+    "status": "Completed",
+    "seasons": {
+      "Season 1": {
+        "1": 1046,
+        "2": 1047,
+        "3": 1048,
+        "4": 1049,
+        "5": 1050,
+        "6": 1051,
+        "7": 1052,
+        "8": 1053,
+        "9": 1054,
+        "10": 1055,
+        "11": 1056,
+        "12": 1057,
+        "13" : 1058
+      },
+      "Season 2": {
+        "1": 1033,
+        "2": 1034,
+        "3": 1035,
+        "4": 1036,
+        "5": 1037,
+        "6": 1038,
+        "7": 1039,
+        "8": 1040,
+        "9": 1041,
+        "10": 1042,
+        "11": 1043,
+        "12": 1044,
+        "13": 1045
+      }
+    }
+  },
   "Akanesasu Shoujo": {
     "channel_id": -1003579105894,
     "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx101360-2JEYeXhqz0WH.jpg",
